@@ -6,7 +6,7 @@ import search_icon from '../../assets/search.png'
 import upload_icon from '../../assets/upload.png'
 import more_icon from '../../assets/more.png'
 import notification_icon from '../../assets/notification.png'
-import profile_icon from '../../assets/profile.png'
+import profile_icon from '../../assets/jack.png'
 
 
 const Navbar = () => {
@@ -23,10 +23,10 @@ const Navbar = () => {
             </div>
 
             <div className="nav-right flex-div">
-                <img src="" alt="" />
-                <img src="" alt="" />
-                <img src="" alt="" />
-                <img src="" alt="" />
+                <img src={upload_icon}alt="" />
+                <img src={more_icon} alt="" />
+                <img src={notification_icon} alt="" />
+                <img src={profile_icon} className='user_icon' alt="" />
 
             </div>
         </nav>

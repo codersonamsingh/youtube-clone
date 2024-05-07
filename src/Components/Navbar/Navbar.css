@@ -8,3 +8,10 @@ nav{
     z-index: 10;
 
 }
+.nav-left .menu_icon{
+    width: 22px;
+    margin-right: 25px;
+}
+.nav-left .logo{
+    width: 130px;
+}

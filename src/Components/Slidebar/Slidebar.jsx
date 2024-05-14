@@ -55,6 +55,18 @@ const Slidebar = () => {
         <div className="sildelink">
             <img src={jack} alt="" /> <p>PewDiePie</p>
         </div>
+        <div className="sildelink">
+            <img src={simon} alt="" /> <p>MrBeast</p>
+        </div>
+        <div className="sildelink">
+            <img src={tom} alt="" /> <p>Justin bieber</p>
+        </div>
+        <div className="sildelink">
+            <img src={megan} alt="" /> <p>5-min Crafts</p>
+        </div>
+        <div className="sildelink">
+            <img src={cameron} alt="" /> <p>Nas Daily</p>
+        </div>
     </div>
 
     </div>

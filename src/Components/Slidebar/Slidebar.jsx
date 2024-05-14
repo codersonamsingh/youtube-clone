@@ -24,21 +24,28 @@ const Slidebar = () => {
             <img src={home} alt="" /><p>Home</p>
         </div>
         <div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
-        </div><div className="sidelink">
-            <img src={home} alt="" /><p>Home</p>
+            <img src={game_icon} alt="" /><p>Gaming</p>
+        </div>
+        <div className="sidelink">
+            <img src={automobiles} alt="" /><p>Automobiles</p>
+        </div>
+        <div className="sidelink">
+            <img src={sports} alt="" /><p>Sports</p>
+        </div>
+        <div className="sidelink">
+            <img src={entertainment} alt="" /><p>Entertainment</p>
+        </div>
+        <div className="sidelink">
+            <img src={tech} alt="" /><p>Technology</p>
+        </div>
+        <div className="sidelink">
+            <img src={music} alt="" /><p>Music</p>
+        </div>
+        <div className="sidelink">
+            <img src={blogs} alt="" /><p>Blogs</p>
+        </div>
+        <div className="sidelink">
+            <img src={news} alt="" /><p>News</p>
         </div>
 
     </div>

@@ -20,51 +20,51 @@ const Slidebar = () => {
 
     <div className='slidebar'>
     <div className="sortcut-links">
-        <div className="sidelink">
+        <div className="side-link">
             <img src={home} alt="" /><p>Home</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={game_icon} alt="" /><p>Gaming</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={automobiles} alt="" /><p>Automobiles</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={sports} alt="" /><p>Sports</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={entertainment} alt="" /><p>Entertainment</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={tech} alt="" /><p>Technology</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={music} alt="" /><p>Music</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={blogs} alt="" /><p>Blogs</p>
         </div>
-        <div className="sidelink">
+        <div className="side-link">
             <img src={news} alt="" /><p>News</p>
         </div>
         <hr/>
 
     </div>
-    <div className="subscribed-list">
-        <h3>subscribed</h3>
-        <div className="sildelink">
+    <div className="Subscribed-list">
+        <h3>Subscribed</h3>
+        <div className="silde-link">
             <img src={jack} alt="" /> <p>PewDiePie</p>
         </div>
-        <div className="sildelink">
+        <div className="silde-link">
             <img src={simon} alt="" /> <p>MrBeast</p>
         </div>
-        <div className="sildelink">
+        <div className="silde-link">
             <img src={tom} alt="" /> <p>Justin bieber</p>
         </div>
-        <div className="sildelink">
+        <div className="silde-link">
             <img src={megan} alt="" /> <p>5-min Crafts</p>
         </div>
-        <div className="sildelink">
+        <div className="silde-link">
             <img src={cameron} alt="" /> <p>Nas Daily</p>
         </div>
     </div>

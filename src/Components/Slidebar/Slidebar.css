@@ -28,3 +28,13 @@
     background: #ccc;
     width: 85%;
 }
+.subscribed-list h3{
+    font-size: 13px;
+    margin: 20px 0;
+    color: #5a5a5a;
+}
+.subscribed-list img{
+    border-radius: 50%;
+    width: 25px;
+    margin-right: 20px;
+}

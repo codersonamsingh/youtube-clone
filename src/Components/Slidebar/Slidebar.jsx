@@ -50,7 +50,7 @@ const Slidebar = () => {
         <hr/>
 
     </div>
-    <div className="Subscribed-list">
+    <div className="subscribed-list">
         <h3>Subscribed</h3>
         <div className="silde-link">
             <img src={jack} alt="" /> <p>PewDiePie</p>

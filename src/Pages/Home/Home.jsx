@@ -1,12 +1,12 @@
 import React from 'react'
 import './Home.css'
-import Slidebar from '../../Components/Slidebar/Slidebar'
+import Sidebar from '../../Components/Sidebar/Sidebar'
 
 const Home = () => {
   return (
 
     <>
-    <Slidebar/>
+    <Sidebar/>
 
     </>
   )

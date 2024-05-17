@@ -1,5 +1,5 @@
 import React from 'react'
-import './Slidebar.css'
+import './Sidebar.css'
 import home from '../../assets/home.png'
 import game_icon from '../../assets/game_icon.png'
 import automobiles from '../../assets/automobiles.png'
@@ -15,10 +15,10 @@ import tom from '../../assets/tom.png'
 import megan from '../../assets/megan.png'
 import cameron from '../../assets/cameron.png'
 
-const Slidebar = () => {
+const Sidebar = () => {
   return (
 
-    <div className='slidebar'>
+    <div className='sidebar'>
     <div className="sortcut-links">
         <div className="side-link">
             <img src={home} alt="" /><p>Home</p>
@@ -73,4 +73,4 @@ const Slidebar = () => {
   )
 }
 
-export default Slidebar
+export default Sidebar
